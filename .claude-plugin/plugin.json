@@ -1,0 +1,8 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "강의 자료를 노션 서식 .md 노트로 정리하는 학습용 스킬 모음",
+  "author": {
+    "name": "JinwookChei"
+  }
+}

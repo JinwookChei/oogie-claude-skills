@@ -1,0 +1,13 @@
+{
+  "name": "claude-study-skills",
+  "owner": {
+    "name": "JinwookChei"
+  },
+  "plugins": [
+    {
+      "name": "study",
+      "source": "./",
+      "description": "강의 자료를 노션 서식 .md 노트로 정리하는 학습용 스킬 모음"
+    }
+  ]
+}
