@@ -1,4 +1,4 @@
-# claude-skills
+# oogie-claude-skills
 
 내가 만든 Claude Code 스킬을 모아두는 저장소입니다.
 
@@ -11,7 +11,7 @@
 ## 구조
 
 ```
-claude-skills/
+oogie-claude-skills/
 ├── .claude-plugin/       ← 플러그인 설치용 설정
 ├── skills/
 │   └── <스킬 이름>/SKILL.md
@@ -25,11 +25,11 @@ claude-skills/
 ### 방법 A. 스크립트로 설치 (`/unit-note` 처럼 짧게 호출)
 
 ```bash
-git clone https://github.com/JinwookChei/claude-skills.git
+git clone https://github.com/JinwookChei/oogie-claude-skills.git
 ```
 
 ```bash
-cd claude-skills
+cd oogie-claude-skills
 ```
 
 ```bash
@@ -41,14 +41,14 @@ powershell -ExecutionPolicy Bypass -File scripts\install.ps1
 Claude Code에서:
 
 ```
-/plugin marketplace add JinwookChei/claude-skills
+/plugin marketplace add JinwookChei/oogie-claude-skills
 ```
 
 ```
-/plugin install my-skills@claude-skills
+/plugin install my-skills@oogie-claude-skills
 ```
 
-업데이트: `/plugin marketplace update claude-skills`
+업데이트: `/plugin marketplace update oogie-claude-skills`
 
 ## 새 스킬 추가하기
 
