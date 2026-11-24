@@ -1,7 +1,7 @@
 {
-  "name": "study",
+  "name": "my-skills",
   "version": "1.0.0",
-  "description": "강의 자료를 노션 서식 .md 노트로 정리하는 학습용 스킬 모음",
+  "description": "JinwookChei의 Claude Code 스킬 모음",
   "author": {
     "name": "JinwookChei"
   }

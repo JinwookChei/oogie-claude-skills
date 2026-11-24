@@ -1,13 +1,13 @@
 {
-  "name": "claude-study-skills",
+  "name": "claude-skills",
   "owner": {
     "name": "JinwookChei"
   },
   "plugins": [
     {
-      "name": "study",
+      "name": "my-skills",
       "source": "./",
-      "description": "강의 자료를 노션 서식 .md 노트로 정리하는 학습용 스킬 모음"
+      "description": "JinwookChei의 Claude Code 스킬 모음"
     }
   ]
 }
